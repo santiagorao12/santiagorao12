@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript, React, and python
 - 💞️ You can find my self taught notes on books and tutorials at: Sasadhriwrites.com
 - 📫 How to reach me? My email is at santiagorao43@gmail.com or you could reach out to me through linkedin <a href="https://www.linkedin.com/in/sasadhri-rao/">
-  < img align = middle alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="middle" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <!---
