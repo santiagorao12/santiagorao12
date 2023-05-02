@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [sasadhrirao.com](https://sasadhrirao.com)
 
-- 📫 How to reach me **sasadhrirao12@protonmail.com**
+- 📫 How to reach me (mailto:sasadhrirao12@protonmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
