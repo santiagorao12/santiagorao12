@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from Malaysia</h3>
 
-- 👨‍💻 All of my projects are available at [sasadhrirao.com](https://sasadhrirao.com)
+- 👨‍💻 All of my projects are available at <a href="https://sasadhrirao.com" target="_blank">sasadhrirao.com</a>
 
 - 📫 You can reach out to me at sasadhrirao12@protonmail.com
 
