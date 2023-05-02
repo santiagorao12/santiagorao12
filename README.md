@@ -2,8 +2,6 @@
 
 - 👨‍💻 All of my projects are available at [sasadhrirao.com](sasadhrirao.com)
 
-- 📝 I regularly write articles on [sasadhriwrites.com](sasadhriwrites.com)
-
 - 📫 How to reach me **sasadhrirao12@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
