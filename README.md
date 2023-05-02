@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A passionate developer from Malaysia</h3>
 
 - 👨‍💻 All of my projects are available at [sasadhrirao.com](sasadhrirao.com)
 
